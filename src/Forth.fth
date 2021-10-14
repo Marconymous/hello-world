@@ -1,0 +1,1 @@
+.( Hello, Forth!) CR
